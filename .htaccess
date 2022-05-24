@@ -1,0 +1,3 @@
+    <IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin 'https://security-platform-2022-demo--preprod.my.salesforce.com'
+    </IfModule>
