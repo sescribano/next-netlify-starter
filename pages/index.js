@@ -16,12 +16,7 @@ export default function Home() {
         <p className="description">
           Enter your preferences!
         </p>
-    
-    <div id="pref-center-main"></div>
-<script id="preference-center" src="https://security-platform-2022-demo--preprod.my.salesforce.com/prefcenter/preference-center-0.0.3/js/main.js" 
-  pref-center-host="https://security-platform-2022-demo--preprod.my.salesforce.com"
-  pref-center-name="Person_Account_Consent"
-  pref-center-param="pctoken"></script>
+
       </main>
 
       <Footer />
