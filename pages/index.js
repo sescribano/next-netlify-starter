@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Enter your preferences
+          Enter your preferences!
         </p>
     
     <div id="pref-center-main"></div>
